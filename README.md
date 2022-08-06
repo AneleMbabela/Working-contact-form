@@ -1,4 +1,4 @@
-# Working-contact-form
+# working-contact-form
 Working contact form through a smtp.elasticemail.com
 
 https://anelembabela.github.io/Working-contact-form/
