@@ -1,5 +1,6 @@
 # working-contact-form
 Working contact form through a smtp.elasticemail.com
+Stack: css and html.
 
 https://anelembabela.github.io/working-contact-form/
 
